@@ -1,0 +1,130 @@
+{
+  "name": "and-then-theres-strahd",
+  "title": "And Then Theres Strahd",
+  "description": "",
+  "authors": [
+    "R20Converter"
+  ],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [
+    "templates/roll20-templates.js"
+  ],
+  "esmodules": [],
+  "styles": [
+    "templates/roll20-templates.css"
+  ],
+  "languages": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-and-then-theres-strahd-spells",
+      "package": "world",
+      "path": "packs/ddb-and-then-theres-strahd-spells.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Ed\\AppData\\Local\\FoundryVTT\\Data\\worlds\\and-then-theres-strahd\\packs\\ddb-and-then-theres-strahd-spells.db",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-and-then-theres-strahd-items",
+      "package": "world",
+      "path": "packs/ddb-and-then-theres-strahd-items.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Ed\\AppData\\Local\\FoundryVTT\\Data\\worlds\\and-then-theres-strahd\\packs\\ddb-and-then-theres-strahd-items.db",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-and-then-theres-strahd-class-features",
+      "package": "world",
+      "path": "packs/ddb-and-then-theres-strahd-class-features.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Ed\\AppData\\Local\\FoundryVTT\\Data\\worlds\\and-then-theres-strahd\\packs\\ddb-and-then-theres-strahd-class-features.db",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-and-then-theres-strahd-classes",
+      "package": "world",
+      "path": "packs/ddb-and-then-theres-strahd-classes.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Ed\\AppData\\Local\\FoundryVTT\\Data\\worlds\\and-then-theres-strahd\\packs\\ddb-and-then-theres-strahd-classes.db",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-and-then-theres-strahd-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-and-then-theres-strahd-racial-traits.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Ed\\AppData\\Local\\FoundryVTT\\Data\\worlds\\and-then-theres-strahd\\packs\\ddb-and-then-theres-strahd-racial-traits.db",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-and-then-theres-strahd-races",
+      "package": "world",
+      "path": "packs/ddb-and-then-theres-strahd-races.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Ed\\AppData\\Local\\FoundryVTT\\Data\\worlds\\and-then-theres-strahd\\packs\\ddb-and-then-theres-strahd-races.db",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-and-then-theres-strahd-monsters",
+      "package": "world",
+      "path": "packs/ddb-and-then-theres-strahd-monsters.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Ed\\AppData\\Local\\FoundryVTT\\Data\\worlds\\and-then-theres-strahd\\packs\\ddb-and-then-theres-strahd-monsters.db",
+      "private": false,
+      "type": "Actor"
+    },
+    {
+      "label": "monsters",
+      "entity": "Actor",
+      "name": "monsters",
+      "path": "packs/monsters.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\Ed\\AppData\\Local\\FoundryVTT\\Data\\worlds\\and-then-theres-strahd\\packs\\monsters.db",
+      "private": false,
+      "type": "Actor"
+    },
+    {
+      "name": "xml-spells",
+      "label": "xml-spells",
+      "collection": "xml-spells",
+      "entity": "Item",
+      "path": "packs/xml-spells.db",
+      "system": "dnd5e",
+      "package": "world",
+      "absPath": "C:\\Users\\Ed\\AppData\\Local\\FoundryVTT\\Data\\worlds\\and-then-theres-strahd\\packs\\xml-spells.db",
+      "private": false,
+      "type": "Item"
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "9.249",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.6"
+}

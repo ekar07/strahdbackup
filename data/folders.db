@@ -1,0 +1,122 @@
+{"_id":"13vjpgZCkFrEgFUX","name":"General Barovia","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Peace","type":"JournalEntry","parent":"RNfqvB4hbHCAh45z","sorting":"a","sort":0,"color":null,"flags":{},"_id":"1CAoyp6n2aI8ApS2"}
+{"name":"fvtt-encounter-stats","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{"fvtt-encounter-stats":{"parent":true}},"_id":"2et20hHn0jCbzWF7"}
+{"name":"21 CoS Old Bonegrinder","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"2hBQtf4DKNHn9z4h"}
+{"name":"34 CoS Tsolenka Pass","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"2zeSrt4gn8kWWYHt"}
+{"name":"Beneos Tokens Iso","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"4M1JIBB4vUBTla8f"}
+{"name":"Beneos Battlemaps","type":"Scene","parent":"Ql87USlvJ3SIRGxi","sorting":"a","sort":0,"flags":{},"_id":"4fUJ33Bp6RSDoLOr"}
+{"name":"2020 Maps","type":"Scene","parent":"PZpGZCPQokgx2DbD","sorting":"a","sort":0,"flags":{},"_id":"6GeOlZUE8t6BBUBy"}
+{"name":"Moulinette","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"6eCwYKs41TuiEiL2"}
+{"name":"33 CoS Krezk Abbey of Saint Markovia","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"7Oy3KP1i1CYlfB8S"}
+{"name":"Baileywiki Maps","type":"Actor","parent":"aTLN3xHwTVbpHbkL","sorting":"a","sort":0,"flags":{},"_id":"8iYXhKG79RSAr2IH"}
+{"name":"Library: Scene Packer","type":"Macro","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"Fv2Z0pjj2V3V1qZu"}
+{"name":"Van Richten's Tower","type":"Scene","sort":800000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"GSKBDaJY5SEEV5Kc"}
+{"name":"Berez","type":"Scene","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"GmdjSIJdTRuIuX5b"}
+{"name":"Beneos Battlemaps","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"HjlAtGEH5zm44OtW"}
+{"name":"Ed's Handouts","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"HzuCDj6jio09ojzb"}
+{"name":"17 CoS Van Richtens Tower","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"Jx8Z2cKMrnMOsMiD"}
+{"_id":"M2E1NTg1NWIzOTg2","name":"Appendix E: The Tarokka Deck","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3100000}
+{"_id":"M2VjNTdhNTRjN2I5","name":"Text Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NTljMzBjYzM4ZTE5","sort":4100000}
+{"_id":"MGIxYWNmODQyODNm","name":"Epilogue","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2700000}
+{"_id":"MTRmMjQ5OTQ0M2Zj","name":"Chapter 9: Tsolenka Pass","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1800000}
+{"_id":"MWE5YjQ5YWQ2Yjc4","name":"Chapter 7: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NGIyMzUwNGFkZmEz","sort":1500000}
+{"_id":"MjM5MjEzZGY1NWFk","name":"Chapter 8: The Village of Krezk","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1600000}
+{"_id":"MmE2NDY0YzgyZjAw","name":"Chapter 1: Into the Mists","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":100000}
+{"_id":"MmIyMGU3N2NiYjhi","name":"Named NPC Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NTljMzBjYzM4ZTE5","sort":4300000}
+{"_id":"MmViZWExMTdjYjRm","name":"Chapter 2: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NTAzZjU3YThiZjlh","sort":500000}
+{"_id":"MzQwZWVlMDE5MGQ5","name":"Chapter 6: Old Bonegrinder","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1200000}
+{"_id":"NDVkYTBkOTg4Y2Jj","name":"Chapter 14: Yester Hill","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2500000}
+{"_id":"NDhiMDk3OWE5OGEy","name":"Chapter 13: The Amber Temple","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2400000}
+{"_id":"NGIyMzUwNGFkZmEz","name":"Chapter 7: Argynvostholt","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1400000}
+{"_id":"NTAzZjU3YThiZjlh","name":"Chapter 2: The Lands of Barovia","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":400000}
+{"_id":"NTljMzBjYzM4ZTE5","name":"Player Handouts","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":4000000}
+{"_id":"NWUwYmM5ZTNjNWNm","name":"Chapter 8: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MjM5MjEzZGY1NWFk","sort":1700000}
+{"name":"tokens","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"NeaGu6jRXUXSYVeA"}
+{"_id":"NjExMjdkMTQwNjVh","name":"Decks","flags":{},"type":"Item","color":"","parent":null,"sort":4900000}
+{"_id":"NjIyMjRiZTNkYTFj","name":"Named NPCs","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"Njk5YWJjMDVmMjIw","name":"Appendix B: Death House","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2900000}
+{"_id":"NmYwZmNlMThlZmIz","name":"Traps and Hazards","flags":{},"type":"JournalEntry","color":"","parent":"ZTU0NTQxMTA4NjVl","sort":4600000}
+{"_id":"NzRkMGRmMWI3Y2Mz","name":"Tarokka: Complete Deck","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":5000000}
+{"_id":"NzU3YmZmNTk4NTg2","name":"Chapter 5: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"YzNkYWU4Y2FjMzQx","sort":1100000}
+{"_id":"NzZlNDM4YTlkYmIx","name":"Chapter 4: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"ODdmOTE4YmY4NmFl","sort":900000}
+{"_id":"ODMyMjRkYmI3NGRj","name":"Decks","flags":{},"type":"RollTable","color":"","parent":null,"sort":4800000}
+{"_id":"ODZmNDNhYjYzM2Vm","name":"Chapter 11: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"YWZlYzA4NGI2MDFl","sort":2200000}
+{"_id":"ODc0NzYwN2Y4MWQw","name":"Appendix A: Character Options","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2800000}
+{"_id":"ODdmOTE4YmY4NmFl","name":"Chapter 4: Castle Ravenloft","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":800000}
+{"_id":"ODhhODBhYmM2MTBm","name":"Chapter 10: The Ruins of Berez","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2000000}
+{"_id":"ODkxNDA1ZDA4MTc2","name":"Alternative Rewards","flags":{},"type":"JournalEntry","color":"","parent":"ZTU0NTQxMTA4NjVl","sort":4500000}
+{"_id":"OGIyMmM4ZmI0M2Jm","name":"Monster Handouts","flags":{},"type":"JournalEntry","color":"","parent":"NTljMzBjYzM4ZTE5","sort":4200000}
+{"_id":"OTBkMjNjMmE2MGI4","name":"Chapter 1: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MmE2NDY0YzgyZjAw","sort":300000}
+{"_id":"OTMxNTFkOTdhYTI5","name":"Monsters","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"OTQ1MTc4ZDEyN2Ji","name":"Chapter 3: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"ZjhlZTc3MzhhYWNj","sort":700000}
+{"_id":"OTZiNTJjOTQ5MDA2","name":"Tarokka: Common Deck","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":5100000}
+{"_id":"OTlmMmVhOWRlNzM0","name":"Chapter 6: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MzQwZWVlMDE5MGQ5","sort":1300000}
+{"name":"Baileywiki Maps","type":"Scene","parent":"eCXeKzJleugoX6T6","sorting":"a","sort":0,"flags":{},"_id":"OVNpYSivOBWpnaiK"}
+{"name":"MikWewa Maps","type":"Scene","parent":"Ql87USlvJ3SIRGxi","sorting":"a","sort":0,"flags":{},"_id":"PZpGZCPQokgx2DbD"}
+{"name":"Amber Temple","type":"Scene","sort":900000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Q8TXzpjIqGx1vpbB"}
+{"name":"Moulinette","type":"Scene","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"Ql87USlvJ3SIRGxi"}
+{"name":"War","type":"JournalEntry","parent":"RNfqvB4hbHCAh45z","sorting":"a","sort":0,"color":null,"flags":{},"_id":"R4CK6Fc6sfWs8mjW"}
+{"name":"The Tome of Strahd","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"RNfqvB4hbHCAh45z"}
+{"_id":"SIop6OKPBb7jhdEJ","name":"Vallaki","type":"Scene","sort":400000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"22 CoS Tser Pool Camp","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"ScLxM7knYWE6y6XK"}
+{"name":"26 CoS Ravenloft 2F","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"TLMC9fxecoXyh8Xb"}
+{"name":"Beneos Battlemaps Journals","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"UsszzZMXFKST3uvs"}
+{"name":"27 CoS Ravenloft 3F","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"UxZ36R70ONCLtAoQ"}
+{"name":"Power","type":"JournalEntry","parent":"RNfqvB4hbHCAh45z","sorting":"a","sort":0,"color":null,"flags":{},"_id":"VaPhLqCGpW2eJOSu"}
+{"name":"24 CoS Ravenloft 1F","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"VikgvItQ2t2fbWk9"}
+{"name":"38 The Mad Mage's Magnificent Mansion","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"VmrOwES04I6Rs97v"}
+{"name":"FVTT Community Macros - D&D 5e","type":"Macro","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"WCNyz4FuaFIQxYKA"}
+{"name":"32 CoS Village of Krezk","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"XcvWy4kn7fPTUx3L"}
+{"name":"11 CoS Barovia Village","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"XlZKUxlLoUwpkhgP"}
+{"_id":"Y2NmNWRhNTA3OWJk","name":"Deck of Illusions","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":5300000}
+{"_id":"Y2UyZTRiYmIzZmQ1","name":"Rollable Tables","flags":{},"type":"RollTable","color":"","parent":null,"sort":4700000}
+{"_id":"YTAwNWUxYTM3OTMw","name":"Monsters","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3200000}
+{"_id":"YTczMjZhMjBmOWYw","name":"Magic Items","flags":{},"type":"Item","color":"","parent":null,"sort":3700000}
+{"_id":"YTlhNDg2NjRjY2Vk","name":"Adventure Hooks","flags":{},"type":"JournalEntry","color":"","parent":"MmE2NDY0YzgyZjAw","sort":200000}
+{"_id":"YWFmNWNmZWU2ZTk3","name":"Playing Cards","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":5400000}
+{"_id":"YWQwODllN2MyN2Fk","name":"Magic Items","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":3700000}
+{"_id":"YWZjMWI0NDRiNTU4","name":"Chapter 15: Werewolf Den","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2600000}
+{"_id":"YWZlYzA4NGI2MDFl","name":"Chapter 11: Van Richten's Tower","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2100000}
+{"_id":"YjFlYzQ5ZjE5NWRi","name":"Chapter 12: The Wizard of Wines","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":2300000}
+{"_id":"YmQ4MGZiNDM5ZTlh","name":"Appendix B: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"Njk5YWJjMDVmMjIw","sort":3000000}
+{"_id":"YzNkYWU4Y2FjMzQx","name":"Chapter 5: The Town of Vallaki","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":1000000}
+{"_id":"ZDE0NDhlMjdjNjk5","name":"Tarokka: High Deck","flags":{},"type":"Item","color":"","parent":"NjExMjdkMTQwNjVh","sort":5200000}
+{"_id":"ZGY5ZTY2MjM2ZTA5","name":"Chapter 9: Handouts","flags":{},"type":"JournalEntry","color":"","parent":"MTRmMjQ5OTQ0M2Zj","sort":1900000}
+{"_id":"ZTU0NTQxMTA4NjVl","name":"Supplemental Material","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":4400000}
+{"_id":"ZWM1MGI0ZTFkMDQy","name":"START HERE","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":100000}
+{"_id":"ZWRjYWJlYzVjOWI0","name":"Strahd's Brides","flags":{},"type":"Actor","color":"","parent":"NjIyMjRiZTNkYTFj","sort":3600000}
+{"_id":"ZjVhNmZmZTI3YjUz","name":"Mongrelfolk","flags":{},"type":"Actor","color":"","parent":"NjIyMjRiZTNkYTFj","sort":3500000}
+{"_id":"ZjhlZTc3MzhhYWNj","name":"Chapter 3: The Village of Barovia","flags":{},"type":"JournalEntry","color":"","parent":null,"sort":600000}
+{"_id":"ZmNjZDA4MjI4NzU4","name":"D&D 5e Spells (SRD)","flags":{},"type":"Item","color":"","parent":null,"sort":100000}
+{"_id":"ZmZjMTc3ZDBiYTdj","name":"Potions","flags":{},"type":"JournalEntry","color":"","parent":"YWQwODllN2MyN2Fk","sort":3800000}
+{"name":"Baileywiki","type":"Actor","parent":"6eCwYKs41TuiEiL2","sorting":"a","sort":0,"flags":{},"_id":"aTLN3xHwTVbpHbkL"}
+{"name":"xml-spells","type":"Item","sort":5500000,"flags":{},"parent":null,"sorting":"a","_id":"bYEoMYTEzQHPDepn"}
+{"name":"15 CoS Swalich Road and Woods","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"brrNyKXl6ySHtspO"}
+{"name":"Items","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"cjiMfIAGkiZuqXC5"}
+{"name":"Argynvostholt","type":"Scene","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"czMYTYItftqcMNCU"}
+{"name":"20 CoS Vallaki Coffin Makers Shop","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"dDCF13Tl4Gd4BjUL"}
+{"name":"Baileywiki","type":"Scene","parent":"Ql87USlvJ3SIRGxi","sorting":"a","sort":0,"flags":{},"_id":"eCXeKzJleugoX6T6"}
+{"name":"35 CoS Werewolf Den","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"eNj1ZXKxSCsawr2a"}
+{"name":"25 CoS Ravenloft B1","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"g01jKFf4g82qSQOJ"}
+{"name":"29 CoS Ravenloft 4F and 5F","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"gDc7SUZSsYkf8M2t"}
+{"name":"05 CoS Death House","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"hfG1NhHhNlQ4JUDJ"}
+{"name":"31 CoS Barovia Map and Jenys Hut","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"izzFoBbinyZ742Rw"}
+{"name":"DDB Items","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"jdiP1UIjjWPWjRMD"}
+{"name":"13 CoS Vallaki Bluewater Inn","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"k9UejsTKfJTyZvKk"}
+{"name":"Beneos Battlemaps","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"klRVQtuL9pIrmfSI"}
+{"name":"18 CoS Argynvostholt","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"lVIQIi6BZUmwBkGj"}
+{"name":"28 CoS Ravenloft B2","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"lW9DORVIOZ6HBlZe"}
+{"name":"PCs","type":"Actor","sort":3700000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"lonpksasLPAcj1xq"}
+{"name":"FQL Macros (Player)","type":"Macro","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"mGB5wXs6msf7dm6H"}
+{"name":"Conditions & Diseases","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"oazT0AIIYJR9PBMX"}
+{"name":"Spells","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"otmaEn2qECEkdNmr"}
+{"name":"23 CoS Vallaki Orphanage","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"p5SHFbglL9DnHCMx"}
+{"_id":"qxhGR1lKKptHZROq","name":"Castle Ravenloft","type":"Scene","sort":300000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Beneos Tokens TopDown","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"rMPHUFC7it0rU8yj"}
+{"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"s5PCIXHPzHshLlMO"}
+{"_id":"trtxtRL1y5CGe4Kc","name":"Generic Maps","type":"Scene","sort":150000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"14 CoS Vallaki Burgomaster House","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"u7iVSpkjeJ5WxwLH"}
+{"name":"19 CoS Yester Hill","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"vL1ayVUV6dMM1dGR"}
+{"name":"Love","type":"JournalEntry","parent":"RNfqvB4hbHCAh45z","sorting":"a","sort":0,"color":null,"flags":{},"_id":"vRF4VROkOZz8HYAc"}
+{"name":"30 CoS Ravenloft 6F and 9F","type":"Scene","parent":"4fUJ33Bp6RSDoLOr","sorting":"a","sort":0,"flags":{},"_id":"xIe12auOY1naAjvd"}
+{"name":"_fql_quests","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"zC6pG7kDHrjqteCY"}
